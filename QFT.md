@@ -16,7 +16,7 @@ $$\begin{equation}
 F=mB(R/2,0,0)-mB(-R/2,0,0)=mR\frac{B(R/2,0,0)-B(-R/2,0,0)}{R}
 \end{equation}$$
 
-磁気単極子間の距離を無限小にしてみる。この時、磁気双極子$`\vec{d}\equiv m(R,0,0)`$を一定に保ちつつ、極限を飛ばす。この時、磁気双極子に掛かる力は以下のようになる。
+磁気単極子間の距離を無限小にしてみる。この時、磁気双極子$`\vec{d}\equiv m(R,0,0)`$を一定に保ちつつ、極限を飛ばす。この際に磁気双極子に掛かる力は以下のようになる。
 
 $$\begin{equation}
 F=mR\frac{B(R/2,0,0)-B(-R/2,0,0)}{R}\xrightarrow[R\to 0]{}|\vec{d}|\frac{d\vec{B}}{dx}=\vec{d}\cdot\nabla\vec{B}
